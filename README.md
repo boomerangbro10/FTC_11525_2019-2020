@@ -1,2 +1,3 @@
-# FTC_11525_2019-2020
-FTC11525 Minerva's Mechanics Skystone
+# FTC 11525 2019-2020
+
+Welcome, I guess. This is where FTC Team 11525 from Maryland does it's stuff as of now. First competition in 2 weeks and I'm just starting now, lets go.
